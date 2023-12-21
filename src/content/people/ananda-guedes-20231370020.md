@@ -12,4 +12,5 @@ occupations:
 addresses:
   github: https://github.com/agu3des
   linkedin: https://www.linkedin.com/in/ananda-guedes/
+  email: anandaguedesdoo@gmail.com
 ---
